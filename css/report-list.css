@@ -1,0 +1,241 @@
+.feature-post a:hover, .list-holder a:hover, .report-lists h3 a:hover {
+    text-decoration: underline;
+}
+.listing-main {
+    background: #fff;
+    padding: 2.5rem;
+    -webkit-box-shadow: 0 5px 12px rgb(0 0 0 / 12%);
+    box-shadow: 0 5px 12px rgb(0 0 0 / 12%);
+    margin-top: -6rem;
+    border-radius: .5rem;
+}
+.report-lists {
+        background:  #ffffff;
+    
+    padding:  2.4rem;
+    
+    border-radius:  .5rem;
+    
+    margin-bottom:  2rem;
+    
+    box-shadow:  0 3px 12px rgb(0 0 0 / 18%);
+}
+ .report-lists:hover {
+        background:  #e7e0d8;
+}
+ .report-lists h2, .report-lists h3 {
+    line-height: 1.4;
+    font-size: 1.4rem;
+}
+.report-lists h3 a {
+    color: #000;
+    font-weight: 600;
+    font-size: 1.8rem;
+}
+.date-data {
+    font-size: 1.2rem;
+    padding-bottom: .3rem;
+}
+.report-lists ul li {
+    font-size: 1.2rem;
+    border-right: .2rem solid #000;
+    padding: 0 3rem;
+}
+.feature-post ul li:last-child, .report-lists ul li:last-child {
+    border: none;
+}
+.option-main .input-group-prepend {
+    display: flex;
+    position: absolute;
+    z-index: 1;
+}
+.option-main .input-group-text {
+    padding: .6rem 1.2rem;
+    color: #fff;
+    background: #24c59c;
+}
+.option-main .input-group-text i {
+    font-size: 2rem;
+}
+.option-main .form-select {
+    padding: .7rem;
+    text-align: center;
+    font-size: 1.2rem;
+}
+.option-main h4 {
+    background: #001a3f;
+    color: #fff;
+    padding: 1rem;
+    font-size: 1.2rem;
+}
+.outer-main a {
+    font-size: 1.4rem;
+    display: flex;
+    align-items: center;
+    padding: .8rem;
+    color: #0e1751;
+}
+.outer-main a i {
+    font-size: 2rem;
+    padding-right: 2rem;
+}
+.outer-main {
+    padding: 2rem;
+    border-radius: .5rem;
+}
+.listing-main {
+    margin-bottom: 6rem;
+}
+.page-link {
+    font-size: 1.2rem;
+    color: #000;
+    padding: .7rem 1.2rem;
+    border-radius: .5rem;
+}
+.page-link.active {
+    background: #ea8b05;
+    color: #fff;
+}
+.why-choose-main {
+    display: flex;
+    justify-content: space-between;
+    padding: 2.4rem;
+}
+.why-choose-main img {
+    width: 5rem;
+    height: 5rem;
+}
+.space-left {
+    padding-left: 3.5rem;
+}
+.why-choose-main h4 {
+    font-size: 1.8rem;
+}
+.list-holder {
+    padding: 3.6rem;
+    color: #fff;
+    margin-bottom: 2.5rem;
+}
+.list-holder span {
+    font-size: 1.2rem;
+}
+.list-holder h4 {
+    font-size: 1.6rem;
+    padding-bottom: 1.2rem;
+    padding-top: .5rem;
+}
+.count-show .form-select, .feature-post a, .list-holder p {
+    font-size: 1.4rem;
+}
+.bg-light-green {
+    background: #26d8ab;
+}
+.bg-dark-green {
+    background: #1f6654;
+}
+.bg-light-blue {
+    background: #46bdda;
+}
+.bg-drk-blue {
+    background: #647ded;
+}
+.feature-post {
+    background: #001a3f;
+    padding: 0 2.5rem;
+}
+.feature-post ul li {
+    border-bottom: .14rem dashed #fff;
+    padding: 1rem 0 1.2rem;
+}
+.feature-post a {
+    color: #fff;
+    margin-bottom: 1rem;
+    font-weight: 600;
+}
+.feature-post p {
+    font-size: 1.2rem;
+    color: #fff;
+    font-weight: 300;
+}
+.feature-post .read-btn {
+    padding: .7rem 1.8rem;
+    font-size: 1.2rem;
+}
+.count-show label {
+    font-size: 1.3rem;
+}
+.list-holder a {
+    display: block;
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #fff;
+    cursor: pointer;
+}
+.read-btn {
+    background: #fff;
+    padding: .9rem 2.4rem;
+    border-radius: 50px;
+    font-size: 1.2rem;
+    margin-top: 1.5rem;
+}
+.activity-icon {
+    width: 2.5rem;
+    margin-right: 2rem;
+}
+.list-active, .outer-main ul li:hover {
+    background: #bdffd9;
+}
+.outer-main ul li:hover a {
+    color: #001a3f;
+}
+.list-active a {
+    color: #001a3f!important;
+}
+.report-lists h3 a:hover {
+    color: #b5793a;
+}
+.report-ttl {
+    padding-top: 5rem;
+}
+.outer-main ul li {
+    border-bottom: .1rem solid #e5d3ac;
+    margin-bottom: 1.2rem;
+}
+.outer-main ul li:last-child {
+    border-bottom: none;
+    margin-bottom: 0;
+    padding-bottom: 0;
+}
+.cnt-outer a {
+    padding: 1.2rem 0!important;
+    border-bottom: .1rem solid #dedbdb;
+}
+.cnt-outer a:last-child {
+    border-bottom: 0;
+}
+.pagination {
+    
+    justify-content: end;
+    
+}
+.pagination .page-link {
+    
+    border-radius: .2rem;
+    
+}
+@media only screen and (min-device-width:  320px) and (max-device-width: 480px)  {
+    
+   .report-lists ul li {
+    padding: 0 1rem;
+}
+
+   .cookiesDiv {
+    display: block;
+    padding:  15px;
+    
+    width: 100%;
+}
+
+}
+
+

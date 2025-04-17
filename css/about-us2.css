@@ -1,0 +1,335 @@
+.about-banner{
+    padding:12rem 0;
+    background:url('../images/about-us/top-banner-img.jpg')no-repeat;
+    background-size:cover;
+    background-position:center center;
+}
+.abt-cnt{
+    padding: 3.4rem;
+    border-radius: 3.5rem;
+    margin-top: -20rem;
+}
+.icon-data{
+    display:flex;
+    align-items:center;
+}
+.about-data span{
+    font-size: 3rem;
+    font-weight: 600;
+    margin-bottom: 0;
+    padding-left: 1.5rem;
+    color: #0f6fc6;
+}
+.about-data .para {
+    text-align: justify;
+    line-height: 1.5;
+    color: #585759;
+    font-size: 1.8rem;
+    margin-bottom: 0;
+    padding-top: 0.5rem;
+}
+.about-data{
+    margin-bottom: 5.4rem;
+    padding: 1.5rem;
+}
+.bg-light-purple{
+    background:#042f84!important;
+}
+.motivation-hld{
+    padding: 3rem 3rem 2rem;
+    margin-bottom: 1.5rem;
+    min-height: 30rem;
+    position:relative;
+}
+.dr-purple{
+    background:#197fd9;
+}
+.drk-purple{
+    background:#05054c;
+}
+.mn-auto{
+    min-height:19rem;
+}
+.motivation-hld span{
+    font-size: 2rem;
+    font-weight: 500;
+    color: #fff;
+    line-height: .9;
+}
+.motivation-hld h3{
+    font-size:3.4rem;
+    font-weight:700;
+    color:#fff;
+}
+.motivation-hld p{
+    color: #fff;
+    font-size: 1.3rem;
+}
+.benefits-hld img{
+    width:100%;
+    /*height:30rem;*/
+}
+.benefits-cnt{
+    padding:1.5rem;
+} 
+.benefits-cnt h4{
+    font-size:2rem;
+}
+.benefits-cnt p{
+    font-size:1.5rem;
+    color:#585759;
+}
+.mtop-1{
+    margin-top:3rem;
+}
+.mtop-2{
+    margin-top:7rem;
+}
+.mtop-3{
+    margin-top:12rem;
+}
+.team-user{
+    background: #FEEFBD;
+    height: 5rem;
+    width: 5rem;
+    border-radius: 50%
+}
+.team-data p{
+    font-size:1.6rem;
+    color:#585759;
+}
+.team-data{
+    background:#f7f8fa;
+    padding:2.4rem;
+    border-radius: 2.5rem;
+}
+.why-choose-txt h5 {
+    font-size: 2.4rem;
+    font-weight: 600;
+    color: #fff;
+}
+.why-choose-txt span {
+    font-size: 1.6rem;
+    color: #fff;
+}
+.client-list li{
+    background-image: url(../images/nw-images/TCM_original_logo-1-01.webp);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 8rem;
+    width: 14.5rem;
+    display: inline-block;
+    -webkit-box-shadow: 0 0.2rem 0.8rem rgb(0 0 0 / 15%);
+    box-shadow: 0 0.2rem 0.8rem rgb(0 0 0 / 15%);
+    margin: 0.4rem;
+    border-radius: 0.4rem;
+}
+.about-us-bg{
+    background: #197fd9;
+}
+.icn_1{
+    background-position: 0rem 0rem;
+}
+.icn_2{
+  background-position: 0rem -7.3rem;
+}
+.icn_3{
+   background-position: 0rem -15.rem;
+}
+.icn_4{
+         background-position: 0rem -22rem;
+}
+.icn_5{
+     background-position: 0rem -29.4rem;
+}
+.icn_6{
+   background-position: 0rem -36rem;
+}
+.icn_7{
+      background-position: 0rem -44rem;
+}
+.icn_8{
+    background-position: 0rem -50.5rem;
+}
+.icn_9{
+     background-position: 0rem -58.4rem;
+}
+.icn_10{
+      background-position: 0rem -65rem;
+}
+.icn_11{
+     background-position: 0rem -73rem;
+}
+.icn_12{
+   background-position: 0rem -79.5rem;
+}
+.motivation-hld.bg-light-purple img{
+    position: absolute;
+    width:37%;
+    bottom: -2.5rem;
+    left:0rem;
+}
+.motivation-hld.dr-purple img{
+    position: absolute;
+    top: -1rem;
+    right: -2.5rem;
+    width: 37%;
+}
+.motivation-hld.dr-purple .content_{
+    position: absolute;
+    right: 3.4rem;
+    left: 3rem;
+    bottom:5rem;
+}
+.motivation-hld.drk-purple .content_{
+    position: absolute;
+    right: 25rem;
+    left: 5rem;
+}
+.motivation-hld.drk-purple img{
+    width: 30%;
+    position: absolute;
+    right: -43px;
+    bottom: -7rem;
+}
+.border-radius-top{
+    border-radius:4rem;
+}
+.about-banner{
+    position:relative;
+}
+
+.about-banner {
+    position: relative;
+    background: url(../images/tcm-about-us-banner.webp) center center / cover no-repeat;
+    padding: 2rem 0 5rem;
+}
+.abt-banner-txt-counter {
+    color: #fff;
+    /* padding: 0 10%; */
+    position: relative;
+    padding: 6rem 0rem 2rem 21rem;
+    text-align: start;
+}
+
+.abt-banner-txt{
+    color:#fff;
+    padding:0 10%;
+    position:relative;
+}
+.abt-banner-txt h3{
+    font-size:32px;
+}
+.abt-banner-txt p{
+    color:#fff;
+}
+.about-counter{
+    padding-top:50px;
+}
+.padding-right-5 {
+    padding-right:5rem!important;
+}
+.bg-light-bl{
+    background: #f3f6fb;
+}
+.icon-data .green-txt{color:#C99764;}
+
+.abt-banner-txt {
+    color: #fff;
+    /* padding: 0 10%; */
+    position: relative;
+    padding: 8rem 22rem 8rem 22rem;
+    text-align: center;
+}
+.abt-banner-txt p {
+    color: #fff;
+    text-align: center;
+    font-size: 1.8rem;
+    line-height: 1.8;
+}
+
+.abt-banner-txt-counter {
+    color: #fff;
+    /* padding: 0 10%; */
+    position: relative;
+    padding: 6rem 0rem 2rem 21rem;
+    text-align: start;
+}
+.about-data {
+    margin-bottom: 5.4rem;
+    padding: 1.5rem;
+}
+
+@media only screen and (min-width:320px) and (max-width:480px){
+    .about-banner {
+        padding:2rem 0;
+    }
+    .abt-banner-txt{
+        padding:0 4%;
+    } 
+    .about-counter{
+        padding-top:0;
+    }
+    .motivation-hld {
+        min-height: 25rem;
+    }
+    .motivation-hld.bg-light-purple img {
+        width:25%;
+    }
+    .motivation-hld.dr-purple .content_ {
+        position: absolute;
+        right: 3.4rem;
+        left: 3rem;
+        bottom: 2.5rem;
+    }
+    .motivation-hld.dr-purple img {
+        position: absolute;
+        top: -2rem;
+        right: 0rem;
+        width: 40%;
+    }
+    .motivation-hld.drk-purple .content_ {
+        position: absolute;
+        right: 6rem;
+        left: 3rem;
+    }
+    .motivation-hld.drk-purple img {
+        width: 30%;
+        position: absolute;
+        right: 0px;
+        bottom: -3rem;
+    }
+    .benefits-hld img {
+        width: 100%;
+        height:20rem;
+    }
+    .mtop-2,.mtop-1,.mtop-3{
+        margin-top:0;
+    }
+    .team-data {
+        background: #f7f8fa;
+        padding: 2.4rem;
+        border-radius: 2.5rem;
+        margin-bottom: 1rem;
+    }
+    .why-choose-txt span{
+        font-size: 1.2rem;
+    }
+    .col.text-center{
+        padding:0 1.5rem;
+    }
+    .p-5.border-radius-top{
+        padding:1rem!important;
+    }
+    .padding-right-5 {
+        padding-right: 1rem!important;
+        padding-bottom:1rem;
+    }
+    .mn-auto {
+        min-height: 20rem!important;
+    }
+    .cookiesDiv{
+        display:block;
+        padding: 15px;width:100%;
+    }
+}

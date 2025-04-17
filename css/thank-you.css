@@ -1,0 +1,10 @@
+.thank-you-holder{padding:7rem 0}.thank-you-holder h1{font-size:3.5rem}.tick-icon{width:8rem}.bottom-pattern,.top-pattern{position:absolute;z-index:-1;width:40rem}.top-pattern{left:0}.bottom-pattern{right:0;bottom:-20rem}.c-company{width:15rem!important}.thank-you-banner{background:url(../images/home-page/Thank-you-BG.jpg) center center/cover no-repeat}.success-banner{background:url(../images/home-page/Payment-Page-BG.jpg) center center/cover no-repeat;padding:13rem 0}.success-holder-main{display:flex;align-items:center;border-radius:.7rem .7rem 0 0}.success-holder-main img{width:6rem}.bx-shadow{-webkit-box-shadow:0 5px 12px rgb(0 0 0 / 12%);box-shadow:0 5px 12px rgb(0 0 0 / 12%);background:rgba(255,255,255,.9)}.success-holder-main h1{font-size:2.4rem}.success-holder-main h4{font-size:1.8rem}.s-content p{font-size:1.6rem;padding-bottom:1.2rem}.s-content,.success-holder-main{padding:2rem 4rem}.s-content{border-radius:0 0 .7rem .7rem}.border-top-dashed{border-top:.14rem dashed #dbdbdb}.payment-failed li{font-size:1.4rem;padding:.5rem 0}
+.yl-bg{background:#f0a329;}
+.blck-btn {
+    background: #156356;
+    padding: 0 0 0 3.5rem;
+    color: #fff;
+    font-size: 1.3rem;
+    border-radius: 5rem;
+    margin-top: 3.2rem;
+}
